@@ -2,33 +2,41 @@ package cz.educanet.Resources;
 
 public class Polozka {
 
-        private int id;
-        private boolean isMain;
-        private String name;
+    private int mainid;
+    private int subid;
+    private boolean isMain;
+    private String name;
 
-        public int getId() {
-            return id;
-        }
+    public int getMainid() {
+        return mainid;
+    }
 
-        public void setId(int id) {
-            this.id = id;
-        }
+    public void setMainid(int mainid) {
+        this.mainid = mainid;
+    }
 
-        public boolean isMain() {
-            return isMain;
-        }
+    public int getSubid() {
+        return subid;
+    }
 
-        public void setMain(boolean main) {
-            isMain = main;
-        }
+    public void setSubid(int subid) {
+        this.subid = subid;
+    }
 
-        public String getName() {
-            return name;
-        }
+    public boolean isMain() {
+        return isMain;
+    }
 
-        public void setName(String name) {
-            this.name = name;
-        }
+    public void setMain(boolean main) {
+        isMain = main;
+    }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
 }

@@ -10,23 +10,35 @@ import java.util.ArrayList;
 @ApplicationScoped
 
 public class PolozkaManager {
-    ArrayList<Polozka> dock = new ArrayList<Polozka>();
+    ArrayList<Polozka> Main = new ArrayList<>();
 
-    public void putPolozka(Polozka Polozka) {
-        Polozka.setId(dock.size() + 1);
-        dock.add(Polozka);
+
+    public void putPolozka(Polozka polozka) {
+        if (polozka.isMain()) {
+            polozka.setMainid(Main.size() + 1);
+            Main.add(polozka);
+        } else {
+            int kolik = Integer.parseInt(Integer.toString(polozka.getMainid()).substring(0, 1));
+            polozka.setSubid(polozka.getMainid() * 100 + kolik);
+            Main.add(polozka);
+        }
     }
+
 
     public ArrayList<Polozka> getPolozkas() {
-        return dock;
+        return Main;
     }
 
-    public Polozka getSpecificPolozka(int id) {
-
-        return(dock.get(id));
+    public Polozka getSpecificPolozka(int id, boolean isMain) {
+        if (isMain) {
+            return (Main.get(id));
+        }
+        else{
+            e
+        }
     }
 
     public void Scrap(int removeid) {
-        dock.remove(removeid - 1);
+        Main.remove(removeid - 1);
     }
 }
