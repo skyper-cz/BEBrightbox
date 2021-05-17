@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a92120a-3ab7-4cab-b2b7-5950f8dc3039" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/cz/educanet/Manager/PolozkaManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/Manager/PolozkaManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources/Polozka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources/Polozka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources/PolozkaResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources/PolozkaResources.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-    </list>
+    <list default="true" id="6a92120a-3ab7-4cab-b2b7-5950f8dc3039" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +59,7 @@
       <updated>1621233628212</updated>
       <workItem from="1621233630496" duration="1598000" />
       <workItem from="1621235495866" duration="578000" />
-      <workItem from="1621236263391" duration="4968000" />
+      <workItem from="1621236263391" duration="5269000" />
     </task>
     <servers />
   </component>

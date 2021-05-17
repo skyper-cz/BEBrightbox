@@ -29,13 +29,9 @@ public class PolozkaManager {
         return Main;
     }
 
-    public Polozka getSpecificPolozka(int id, boolean isMain) {
-        if (isMain) {
+    public Polozka getSpecificPolozka(int id) {
             return (Main.get(id));
-        }
-        else{
-            e
-        }
+
     }
 
     public void Scrap(int removeid) {
