@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a92120a-3ab7-4cab-b2b7-5950f8dc3039" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/bin/m2.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/bin/mvn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/bin/mvn.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/bin/mvnDebug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/bin/mvnDebug.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/bin/mvnyjp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/boot/plexus-classworlds.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/conf/logging/simplelogger.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/conf/settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/conf/toolchains.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/cdi-api.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/commons-cli.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/commons-io.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/commons-lang3.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/ext/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/guava.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/guice.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi-native/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi-native/freebsd32/libjansi.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi-native/freebsd64/libjansi.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi-native/linux32/libjansi.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi-native/linux64/libjansi.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi-native/osx/libjansi.jnilib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi-native/windows32/jansi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi-native/windows64/jansi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jansi.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/javax.inject.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jcl-over-slf4j.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jsoup.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/jsr250-api.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/org.eclipse.sisu.inject.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/org.eclipse.sisu.plexus.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/plexus-cipher.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/plexus-component-annotations.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/plexus-interpolation.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/plexus-sec-dispatcher.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/plexus-utils.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-maven-3.8.1/lib/slf4j-api.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/Manager/PolozkaManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources/ApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources/Polozka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources/ShipResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1seWe8jedHkBYt48m85KSEajxhH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a92120a-3ab7-4cab-b2b7-5950f8dc3039" name="Default Changelist" comment="" />
+      <created>1621233628212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621233628212</updated>
+      <workItem from="1621233630496" duration="1598000" />
+      <workItem from="1621235495866" duration="578000" />
+      <workItem from="1621236263391" duration="1316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
