@@ -1,4 +1,3 @@
-cz/educanet/Resources/PolozkaResources.class
-cz/educanet/Resources/ApiConfig.class
-cz/educanet/Manager/PolozkaManager.class
-cz/educanet/Resources/Polozka.class
+cz/educanet/JsonLoader.class
+cz/educanet/PolozkaResources.class
+cz/educanet/ApiConfig.class
