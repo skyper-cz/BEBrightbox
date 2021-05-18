@@ -1,15 +1,13 @@
 package cz.educanet;
 
 import javax.ws.rs.*;
-import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
+
 @Path("polozky")
-@Produces(MediaType.APPLICATION_JSON)
-public class PolozkaResources {
+public class Resources {
 
     @GET
-    @Path("load")
     public Response getPrices() {
         try {
             return Response.ok(JsonLoader.loadJson("data.json")).build();

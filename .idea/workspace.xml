@@ -6,6 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="6a92120a-3ab7-4cab-b2b7-5950f8dc3039" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/cz/educanet/JsonLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/JsonLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/cz/educanet/PolozkaResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/cz/educanet/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/cz/educanet/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BEBrightbox/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BEBrightbox/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +44,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Java/cz/educanet" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/Java/cz/educanet" />
       <recent name="$PROJECT_DIR$/src/main/Java/cz/educanet/Resources" />
     </key>
   </component>
@@ -56,6 +65,10 @@
       <workItem from="1621235495866" duration="578000" />
       <workItem from="1621236263391" duration="7784000" />
       <workItem from="1621248742956" duration="282000" />
+      <workItem from="1621250678475" duration="145000" />
+      <workItem from="1621319990673" duration="438000" />
+      <workItem from="1621323265759" duration="1618000" />
+      <workItem from="1621328535541" duration="261000" />
     </task>
     <servers />
   </component>
