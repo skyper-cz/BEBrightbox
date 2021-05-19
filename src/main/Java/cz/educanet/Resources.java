@@ -11,9 +11,9 @@ public class Resources {
     @Path("data")
     public Response getPrices() {
         try {
-            return Response.ok(JsonLoader.loadJson("./data.json")).build();
+            return Response.ok(JsonLoader.loadJson("/Users/user/Documents/GitHub/BEBrightbox/src/main/Java/cz/educanet/data.json")).build();
         } catch (Exception e) {
-            return Response.status(500, "Soubor nenalezen.").build();
+            return Response.status(444, "Soubor nenalezen.").build();
         }
     }
 }
